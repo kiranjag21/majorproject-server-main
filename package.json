@@ -1,0 +1,22 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "mysql2": "^2.2.5",
+    "nodemailer": "^6.4.18",
+    "nodemon": "^2.0.7",
+    "pusher": "^4.0.2",
+    "pusher-js": "^7.0.3",
+    "sequelize": "^6.5.0"
+  }
+}
